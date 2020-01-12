@@ -27,7 +27,7 @@
 */
 
 //Click here to get the library: http://librarymanager/All#SparkFun_LTE_Shield_Arduino_Library
-#include <SparkFun_LTE_Shield_Arduino_Library_due.h>
+#include <SparkFun_LTE_Shield_Arduino_Library.h>
 
 // Create a SoftwareSerial object to pass to the LTE_Shield library
 #define lteSerial Serial1
